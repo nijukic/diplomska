@@ -271,7 +271,7 @@ export default function SignUp() {
               variant="contained"
               sx={{ mt: 3, mb: 2 }}
             >
-              Sign Up
+              Usvari
             </Button>
             <Grid item xs={12} sx={{ mb: 3 }}>
               {successMessage && (
