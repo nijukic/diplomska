@@ -15,7 +15,7 @@ V sklopu diplomskega dela smo razvili spletno aplikacijo za **SZ-Tovorni promet*
 - Spremljanje lokacije tovornih vlakov v realnem času
 - Filtriranje in iskanje po številkah vlakov, postajah, pogodbah in pošiljkah
 - Različni pogledi za stranke in zaposlene
-- Vizualizacija podatkov na zemljevidu z uporabo **Leaflet** in **OpenStreetMap**
+- Vizualizacija podatkov na zemljevidu z uporabo Leaflet in OpenStreetMap
 
 ## Tehnologije
 
