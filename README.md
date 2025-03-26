@@ -1,7 +1,6 @@
 ## Dostop do diplomske naloge
 
-Celotno diplomsko nalogo si lahko ogledate na naslednji povezavi:  
-[Repozitorij UL](https://repozitorij.uni-lj.si/IzpisGradiva.php?lang=slv&id=161311)
+Celotno diplomsko nalogo si lahko ogledate na naslednji povezavi:  [Repozitorij UL](https://repozitorij.uni-lj.si/IzpisGradiva.php?lang=slv&id=161311)
 
 # Spletna aplikacija za vizualno spremljanje vlakov v tovornem prometu
 
