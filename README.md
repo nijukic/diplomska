@@ -9,7 +9,7 @@ Diplomsko delo v sklopu študija na Fakulteti za računalništvo in informatiko,
 
 ## Opis projekta
 
-V sklopu diplomskega dela smo razvili spletno aplikacijo za **SZ-Tovorni promet**, ki omogoča vizualno spremljanje premikanja tovornih vlakov po slovenskih železniških postajah. Stranke lahko sledijo gibanju svojih pošiljk, zaposleni pa nadzorujejo premike vseh vlakov.
+V sklopu diplomskega dela smo razvili spletno aplikacijo za **SŽ-Tovorni promet**, ki omogoča vizualno spremljanje premikanja tovornih vlakov po slovenskih železniških postajah. Stranke lahko sledijo gibanju svojih pošiljk, zaposleni pa nadzorujejo premike vseh vlakov.
 
 ### Ključne funkcionalnosti:
 - Spremljanje lokacije tovornih vlakov v realnem času
